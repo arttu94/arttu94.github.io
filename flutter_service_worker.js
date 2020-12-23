@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a053dd5481080367233543415f54a23e",
+  "assets/AssetManifest.json": "9f2b4df51e4db6d4a2473073943767c8",
 "assets/assets/images/amongus.gif": "1b32f712f3dd6418a0cd26f67cc6bc72",
 "assets/assets/images/blender.png": "c4f7218e1113c1624bf93d399c627214",
 "assets/assets/images/bongo.gif": "99a699254ae374747cd43a519bbcb1ab",
@@ -25,7 +25,7 @@ const RESOURCES = {
 "assets/assets/images/substance.png": "bf1dfc40c68943ce72aba47a041d3a9c",
 "assets/assets/images/unity.png": "2cfdc95e19e986fbbb1d8a22c624d006",
 "assets/assets/images/unreal.png": "e3b2317bf23472838a8fd50c2bbb3063",
-"assets/FontManifest.json": "3f59334cd4a0dc2251227363ef6ccfd1",
+"assets/FontManifest.json": "bf083a2007611a33b5b4d75b1eac0b8f",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/fonts/OpenSans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/fonts/OpenSans/OpenSans-Light.ttf": "2d0bdc8df10dee036ca3bedf6f3647c6",
@@ -34,14 +34,17 @@ const RESOURCES = {
 "assets/fonts/Roboto/Roboto-Light.ttf": "88823c2015ffd5fa89d567e17297a137",
 "assets/fonts/Roboto/Roboto-Regular.ttf": "11eabca2251325cfc5589c9c6fb57b46",
 "assets/fonts/Roboto/Roboto-Thin.ttf": "321de678e592d0b8f44f1a82d7ca4b62",
-"assets/NOTICES": "7f8ba66d042bc49b7f87c450eaf9bdb1",
+"assets/NOTICES": "0767b86e500500a7da6b719394ae7f6f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "99ea2abcc7828d31c89d5165635d1552",
-"/": "99ea2abcc7828d31c89d5165635d1552",
-"main.dart.js": "7be1f20338a63a9f2762179e05ce4168",
+"index.html": "57ed1e57daa37024e5c2f73bd2128289",
+"/": "57ed1e57daa37024e5c2f73bd2128289",
+"main.dart.js": "2aa0ddf468efd22f956442aa6f6c7a16",
 "manifest.json": "f2873832d8cdf4e414c68ec98261fee2",
 "version.json": "2c6e6819826ff73c2267bcfc80fdac60"
 };
