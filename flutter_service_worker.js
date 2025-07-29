@@ -6,7 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "511448ef70f6c3dcf5e04ee3d37967d2",
 "assets/AssetManifest.bin.json": "f8e41f71ac6fd9890bff857bb5fa82b3",
 "assets/AssetManifest.json": "03df20b40319944668dc9f4e34011f53",
-"assets/assets/main_data.json": "e5d7a32148fe69da42bc3f3e02b0ac0e",
+"assets/assets/main_data.json": "025fde64fa81a825980f13f63b99bd75",
 "assets/assets/resources/college-football-26.png": "30b7e44fa88eb5a395e3ab4fb9a9f27b",
 "assets/assets/resources/dimensio.png": "fab19d719ddc6f1fdf202ebacb389f32",
 "assets/assets/resources/madden-25.png": "2f8eb585e53ceb63920d4a2dc5e6b364",
@@ -34,12 +34,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "511448ef70f6c3dcf5e04ee3d37967d2
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "dcbaec14edabe6f8874a8f850a6866bc",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "fcd49da4b14ddf7ebbf787e07e0d7f71",
+"flutter_bootstrap.js": "f467ca8b27dd43f78e2fe5ab2b186119",
 "icons/Icon-192.png": "5006e68949e8bdb8d734f04927d4a36e",
 "icons/Icon-512.png": "4916cfe2d7c9d74c1d28cd0344ccce89",
 "index.html": "b3a089ab9fe29e08ea852386308c661d",
 "/": "b3a089ab9fe29e08ea852386308c661d",
-"main.dart.js": "97daae22cbf5e89534cfa730550032db",
+"main.dart.js": "2ed500a8de2f2a781e4722caf8e73aba",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can

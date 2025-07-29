@@ -8,22 +8,26 @@
     {
       "icon": "GitHub",
       "url": "https://github.com/arttu94",
-      "label": ""
+      "label": "",
+      "tooltip": "Github"
     },
     {
       "icon": "LinkedIn",
       "url": "https://www.linkedin.com/in/artuglz/",
-      "label": ""
+      "label": "",
+      "tooltip": "LinkedIn"
     },
     {
       "icon": "Fortnite",
       "url": "https://www.fortnite.com/@artu",
-      "label": ""
+      "label": "",
+      "tooltip": "Fortnite creator"
     },
     {
       "icon": "Resume",
       "url": "https://drive.google.com/uc?export=download&id=1tUJB5aEupf005f2dsteZjThvF5tHZX3r",
-      "label": "Resume"
+      "label": "Resume",
+      "tooltip": "Download"
     }
   ],
   "projects": [
