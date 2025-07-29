@@ -1,0 +1,148 @@
+{
+  "profile": {
+    "name": "Arturo González Zepeda",
+    "title": "Game Programmer",
+    "description": "Game programmer with a focus on gameplay systems and user interface development for both indie and AAA titles"
+  },
+  "actions": [
+    {
+      "icon": "GitHub",
+      "url": "https://github.com/arttu94",
+      "label": ""
+    },
+    {
+      "icon": "LinkedIn",
+      "url": "https://www.linkedin.com/in/artuglz/",
+      "label": ""
+    },
+    {
+      "icon": "Fortnite",
+      "url": "https://www.fortnite.com/@artu",
+      "label": ""
+    },
+    {
+      "icon": "Resume",
+      "url": "https://drive.google.com/uc?export=download&id=1tUJB5aEupf005f2dsteZjThvF5tHZX3r",
+      "label": "Resume"
+    }
+  ],
+  "projects": [
+    {
+      "year": "2025",
+      "title": "Undisclosed",
+      "image": "assets/resources/UE-blurred.png",
+      "imageScale": 1.0,
+      "description": "Gameplay programmer for a third-person shooter developed for a confidential client. Worked on responsive camera systems, weapon mechanics, and the implementation of player abilities using GAS",
+      "roles": [
+        "Gameplay prorgrammer"
+      ],
+      "tech": [
+        "Unreal Engine 5",
+        "C++",
+        "Blueprints",
+        "Gameplay Ability System"
+      ],
+      "buttonLabel": "Stay Tuned",
+      "buttonUrl": "https://www.globant.com/es/studio/games"
+    },
+    {
+      "year": "2023-2025",
+      "title": "UEFN Games",
+      "personal": "true",
+      "image": "assets/resources/uefn-featured.png",
+      "imageScale": 1.0,
+      "description": "Development of custom Fortnite experiences across multiple genres, including shooters and hyper-casual games. Designed and programmed custom gameplay systems, UI menus and systems, and persistent data features using Verse",
+      "roles": [
+        "Gameplay prorgrammer",
+        "UI prorgrammer",
+        "Game Designer",
+        "3D Artist"
+      ],
+      "tech": [
+        "UEFN",
+        "Verse",
+        "Blender"
+      ],
+      "buttonLabel": "Play in Fortnite",
+      "buttonUrl": "https://www.fortnite.com/@artu"
+    },
+    {
+      "year": "2025",
+      "title": "College Football 26",
+      "image": "assets/resources/college-football-26.png",
+      "imageScale": 1.1,
+      "description": "UI engineer responsible for integrating Madden's Premium Field Pass feature into College Football 26. Adapted and extended existing systems for a seamless user experience",
+      "roles": [
+        "UI prorgrammer"
+      ],
+      "tech": [
+        "Frostbite",
+        "C++",
+        "ActionScript2"
+      ],
+      "buttonLabel": "View Project",
+      "buttonUrl": "https://www.ea.com/games/ea-sports-college-football/college-football-26"
+    },
+    {
+      "year": "2024",
+      "title": "Madden 25",
+      "image": "assets/resources/madden-25.png",
+      "imageScale": 1.1,
+      "description": "UI development for two new core features: Team Pass and Player Card. Built and polished the full user interface experience from scratch",
+      "roles": [
+        "UI prorgrammer"
+      ],
+      "tech": [
+        "Frostbite",
+        "C++",
+        "ActionScript2"
+      ],
+      "buttonLabel": "View Project",
+      "buttonUrl": "https://www.ea.com/games/madden-nfl/madden-nfl-25"
+    },
+    {
+      "year": "2021-2023",
+      "title": "Mortal Kombat: Onslaught",
+      "image": "assets/resources/mk-onslaught.png",
+      "imageScale": 1.1,
+      "description": "Worked on internal tools and UI for development and marketing. Created a custom in-editor automation tool with tailored UI, and a screenshot capture system with masking features for promotional materials",
+      "roles": [
+        "Tools prorgrammer",
+        "UI prorgrammer"
+      ],
+      "tech": [
+        "Unreal Engine 4 & 5",
+        "C++",
+        "Blueprints",
+        "Slate",
+        "UMG"
+      ],
+      "buttonLabel": "View Project",
+      "buttonUrl": "https://www.globant.com/studio/games/#/?view=project&title=mkOnslaught"
+    },
+    {
+      "year": "2018-2019",
+      "title": "Dimensio",
+      "personal": "true", 
+      "image": "assets/resources/dimensio.png",
+      "imageScale": 1.1,
+      "description": "Solo development of a puzzle-platformer featuring color and dimension-shifting mechanics. Handled every aspect from gameplay systems and tool creation to 3D modeling, UI, and visual design",
+      "roles": [
+        "Gameplay prorgrammer",
+        "Tools prorgrammer",
+        "UI prorgrammer",
+        "Game Designer",
+        "3D Artist"
+      ],
+      "tech": [
+        "Unity",
+        "C#",
+        "Blender",
+        "Inkscape",
+        "Krita"
+      ],
+      "buttonLabel": "Download Game",
+      "buttonUrl": "https://apps.microsoft.com/detail/9n961b2tj2j1"
+    }
+  ]
+}
