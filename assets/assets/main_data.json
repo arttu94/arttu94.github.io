@@ -38,7 +38,7 @@
       "imageScale": 1.0,
       "description": "Gameplay programmer for a third-person shooter developed for a confidential client. Worked on responsive camera systems, weapon mechanics, and the implementation of player abilities using GAS",
       "roles": [
-        "Gameplay prorgrammer"
+        "Gameplay programmer"
       ],
       "tech": [
         "Unreal Engine 5",
@@ -57,8 +57,8 @@
       "imageScale": 1.0,
       "description": "Development of custom Fortnite experiences across multiple genres, including shooters and hyper-casual games. Designed and programmed custom gameplay systems, UI menus and systems, and persistent data features using Verse",
       "roles": [
-        "Gameplay prorgrammer",
-        "UI prorgrammer",
+        "Gameplay programmer",
+        "UI programmer",
         "Game Designer",
         "3D Artist"
       ],
@@ -77,7 +77,7 @@
       "imageScale": 1.1,
       "description": "UI engineer responsible for integrating Madden's Premium Field Pass feature into College Football 26. Adapted and extended existing systems for a seamless user experience",
       "roles": [
-        "UI prorgrammer"
+        "UI programmer"
       ],
       "tech": [
         "Frostbite",
@@ -94,7 +94,7 @@
       "imageScale": 1.1,
       "description": "UI development for two new core features: Team Pass and Player Card. Built and polished the full user interface experience from scratch",
       "roles": [
-        "UI prorgrammer"
+        "UI programmer"
       ],
       "tech": [
         "Frostbite",
@@ -111,8 +111,8 @@
       "imageScale": 1.1,
       "description": "Worked on internal tools and UI for development and marketing. Created a custom in-editor automation tool with tailored UI, and a screenshot capture system with masking features for promotional materials",
       "roles": [
-        "Tools prorgrammer",
-        "UI prorgrammer"
+        "Tools programmer",
+        "UI programmer"
       ],
       "tech": [
         "Unreal Engine 4 & 5",
@@ -132,9 +132,9 @@
       "imageScale": 1.1,
       "description": "Solo development of a puzzle-platformer featuring color and dimension-shifting mechanics. Handled every aspect from gameplay systems and tool creation to 3D modeling, UI, and visual design",
       "roles": [
-        "Gameplay prorgrammer",
-        "Tools prorgrammer",
-        "UI prorgrammer",
+        "Gameplay programmer",
+        "Tools programmer",
+        "UI programmer",
         "Game Designer",
         "3D Artist"
       ],
